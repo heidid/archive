@@ -44,7 +44,7 @@ const Nav = {
 
 const Page = {
 	getContent: (projectStr) => {
-		let file = `${projectStr !== null ? projectStr : ''}/readme.md`;
+		let file = `${projectStr !== null ? projectStr + '/' : ''}readme.md`;
 		return fetch(file)
 		.then(res => res.body.getReader().read())
 		.then(res => new TextDecoder("utf-8").decode(res.value))
