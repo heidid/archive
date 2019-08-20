@@ -9,7 +9,7 @@
 
 My friend gave me the opportunity to make a website for his mom's yoga classes.
 
-![Screenshot of homepage](yogawithmiki/home.png)
+![Screenshot of homepage](home.png)
 
-![Screenshot of classes page](yogawithmiki/classes.png)
+![Screenshot of classes page](classes.png)
 

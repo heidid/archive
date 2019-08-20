@@ -12,7 +12,7 @@
 
 
 
-Read the [full project write-up](nostrum/nostrum.pdf).
+Read the [full project write-up](nostrum.pdf).
 
 Our work was featured also on the CITRIS Invention Lab website: _[All-woman team constructs clever commentary in CITRIS Invention Lab](https://citris-uc.org/all-woman-team-constructs-clever-commentary-in-citris-invention-lab/)_
 

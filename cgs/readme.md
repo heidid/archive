@@ -13,29 +13,29 @@ Following this prompt, we created a Java game called Threat Detected that teache
 
 I created **[over 1000 image assets](https://github.com/heidid/CGS/tree/master/core/assets/images)** for the game! Okay well, I generated the majority of them, which were animation frames, thanks to Photoshop Actions, batch automation, and occasionally a short Python script. Here's a sample:
 
-![Assets](cgs/sample.png)
+![Assets](sample.png)
 
 ## Gameplay screenshots
 Start screen:
 
-![Start screen](cgs/startscreen.png)
+![Start screen](startscreen.png)
 
 This is the inital overworld map, which is a computer network that is revealed as more levels are completed.
 
-![Initial map](cgs/initialmap.png)
+![Initial map](initialmap.png)
 
 The first level is a tutorial that onboards the player to the game.
 
-![Tutorial](cgs/tutorial.png)
+![Tutorial](tutorial.png)
 
 The objective is to shoot antivirus disks at the orange malware minions who are destroying stacks of files. 
 
-![Level 2](cgs/level2.png)
+![Level 2](level2.png)
 
 Once all minions are destroyed, a port appears for the player to exit.
 
-![Level completion](cgs/level2completion.png)
+![Level completion](level2completion.png)
 
 If all files are destroyed, then the level ends. In the level below, there's also a factory producing viruses and a firewall that must be put up by activating a switch.
 
-![Game over](cgs/gameover.png)
+![Game over](gameover.png)

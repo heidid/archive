@@ -9,5 +9,5 @@
 **Keywords:** web design
 
 
-![case study](crucible/casestudy.png)
+![case study](casestudy.png)
 

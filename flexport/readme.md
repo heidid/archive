@@ -11,20 +11,20 @@ I interned on the Frontend Infrastructure / Design System team in SF, where I wo
 ## Search
 **Problem:** The search field didn't actually search the whole site; it only filtered through the list of component names. Most engineers used `cmd+f` to find what they wanted.
 
-![gif of old search interaction](flexport/latitudesearch_before.gif)
+![gif of old search interaction](latitudesearch_before.gif)
 
 **My improvements:** I added [Algolia DocSearch](https://community.algolia.com/docsearch/) to the site, which you can also try out [live](https://www.flexport.com/design/components). The site is properly indexed with [docsearch-scraper](https://github.com/algolia/docsearch-scraper), and users can now search across the docs to find design guidelines as well as components.
 
-![gif of new search interaction](flexport/latitudesearch_after.gif)
+![gif of new search interaction](latitudesearch_after.gif)
 
 **Unsolicited user testimonials:** Flexport engineers liked my work!
 
-![nice slack message](flexport/searchtestimonial.png)
+![nice slack message](searchtestimonial.png)
 
 ## Prop Table
 **Problem:** Let's say you're implementing a design and need to add text to the UI. You look at the documentation page for the `Text` component, and the React props are listed out like so:
 
-![screenshot of old table](flexport/proptable_before.png)
+![screenshot of old table](proptable_before.png)
 
 However, notice the Type column—what are the actual color and size options? As a result, developers need to look into component source files to find this basic information.
 
@@ -38,10 +38,10 @@ However, notice the Type column—what are the actual color and size options? As
 - If a prop takes another UI component, it'll link to that component's page
 - If a prop takes an object, the object type will appear in a popover 
 
-![screenshot of new table](flexport/proptable_after.png)
+![screenshot of new table](proptable_after.png)
 
-![screenshot of new table](flexport/proptable_after2.png)
+![screenshot of new table](proptable_after2.png)
 
 **Unsolicited user testimonials:** Flexport engineers liked my work!
 
-![three nice slack messages](flexport/proptabletestimonials.png)
+![three nice slack messages](proptabletestimonials.png)

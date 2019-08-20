@@ -8,11 +8,11 @@
 
 I interned on the Merchant Onboarding team in San Jose, and worked on new UI components to lessen confusion throughout the signup flow. Specifically, I created a date input component ([seen here](https://www.paypal.com/bizsignup/#/personalInfo)), progress bar, and credit card statement descriptor in React, and integrated these into the Node.js webapp.
 
-![screenshot](paypal/screenshot.png)
+![screenshot](screenshot.png)
 
 Here's my project summarized in a poster:
 
-![poster](paypal/poster.png)
+![poster](poster.png)
 
 
 Alternatively, here's the poster summarized in an amusing video:

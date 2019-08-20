@@ -9,5 +9,5 @@
 **Keywords:** product design, UI/UX design
 
 
-![case study](mapd/casestudy.png)
+![case study](casestudy.png)
 
