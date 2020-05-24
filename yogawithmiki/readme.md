@@ -4,7 +4,7 @@
 
 **Keywords:** HTML, CSS, visual design
 
-**URL:** <http://yogawithmiki.co.nf/>
+**URL:** <http://yogawithmiki.org/>
 
 
 My friend gave me the opportunity to make a website for his mom's yoga classes.
