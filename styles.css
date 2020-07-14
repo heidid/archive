@@ -3,11 +3,10 @@
 	border: 0;
 }
 body {
-	/*background: #fafafa;*/
 	color: #222;
 	margin: 0;
 	padding: 0;
-	font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif;
+	font: 16px 'Inter', sans-serif;
 }
 #sidebar {
 	background: #fafafa;
@@ -25,9 +24,8 @@ nav ul {
 }
 nav li {
 	padding: 10px 20px;
-	font-size: 14pt;
+	font-size: 18px;
 	display: block;
-	transition: 0.3s all;
 }
 nav li.active {
 	background: #eee;
@@ -58,36 +56,40 @@ main {
 	margin: auto;
 	line-height: 1.6;
 }
-#content h1, #content h2, #content h3 {
-	font-family: 'Miriam Libre', fixed-width;
-	margin-bottom: 0.5em;
+h1 {
+	font-size: 50px;
+	margin-bottom: 30px;
 }
-#content h1 {
-	font-size: 38pt;
-	letter-spacing: 2px;
+h2 {
+	font-size: 28px;
+	margin-bottom: 16px;
 }
-#content h2 {
-	font-size: 24pt;
-	letter-spacing: 1px;
+h3 {
+	font-size: 20px;
+	margin-bottom: 10px;
 }
-#content p {
-	margin-bottom: 0.5em;	
+p {
+	margin-bottom: 16px;
 }
-#content blockquote {
+blockquote {
 	margin: 0;
-	font-size: 0.8em;
+	font-size: 14px;
 	color: #555;
 	border-left: 4px solid #ddd;
 	padding-left: 20px;
 }
 #content img {
 	width: 100%;
+	margin: 16px 0;
+}
+#content li {
+	margin-bottom: 6px;
 }
 footer {
 	border-top: 1px solid #ddd;
 }
-a, a:link, a:visited {
-	color: #0366d6;
+a {
+	color: #4B6CE2;
 	text-decoration: none;
 }
 a:hover {
