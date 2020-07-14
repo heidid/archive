@@ -6,7 +6,13 @@
 
 **Keywords:** React, Node.js
 
-I interned on the Frontend Infrastructure / Design System team in SF, where I worked on improving Flexport's [design system docs](https://www.flexport.com/design).
+I interned on the Frontend Infrastructure / Design System team in SF, where I worked on Flexport's design system, Latitude, and improved the [documentation site](https://www.flexport.com/design/legacy).
+
+## SettingsToggle component
+I brought the [SettingsToggle component](https://www.flexport.com/design/legacy/components/SettingsToggle) into Latitude.
+
+![gif of SettingsToggle](settingstoggle.gif)
+
 
 ## Search
 **Problem:** The search field didn't actually search the whole site; it only filtered through the list of component names. Most engineers used `cmd+f` to find what they wanted.
