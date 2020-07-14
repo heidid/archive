@@ -13,7 +13,7 @@ I interned on the Frontend Infrastructure / Design System team in SF, where I wo
 
 ![gif of old search interaction](latitudesearch_before.gif)
 
-**My improvements:** I added [Algolia DocSearch](https://community.algolia.com/docsearch/) to the site, which you can also try out [live](https://www.flexport.com/design/components). The site is properly indexed with [docsearch-scraper](https://github.com/algolia/docsearch-scraper), and users can now search across the docs to find design guidelines as well as components.
+**My improvements:** I added [Algolia DocSearch](https://community.algolia.com/docsearch/) to the site, which you can also try out [live](https://www.flexport.com/design/legacy/components). The site is properly indexed with [docsearch-scraper](https://github.com/algolia/docsearch-scraper), and users can now search across the docs to find design guidelines as well as components.
 
 ![gif of new search interaction](latitudesearch_after.gif)
 
