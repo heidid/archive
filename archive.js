@@ -15,7 +15,7 @@ const CONFIG = {
 		{"id": "cgs", "name": "Threat Detected", "tags": ["high school", "game", "graphic design"]},
 		{"id": "graphicdesign", "name": "Graphic Design", "tags": ["high school", "graphic design"]},
 		{"id": "profpics", "name": "Custom Profile Pictures", "tags": ["high school", "webdev"]},
-		{"id": "clubwebsites", "name": "Club Websites", "tags": ["draft", "high school", "webdev"]},
+		{"id": "clubwebsites", "name": "Club Websites", "tags": ["high school", "webdev"]},
 		{"id": "willowlakebnb", "name": "Willow Lake", "tags": ["high school", "webdev"]},
 		{"id": "yogawithmiki", "name": "Yoga with Miki", "tags": ["old", "middle school", "webdev"]},
 		{"id": "woodellcomputers", "name": "Woodell Computers", "tags": ["old", "middle school", "webdev"]},
