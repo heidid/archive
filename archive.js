@@ -3,7 +3,7 @@ const CONFIG = {
 		{"id": "", "name": "Home", "tags": []},
 		{"id": "flexport", "name": "Flexport", "tags": ["internship", "frontend UI"]},
 		{"id": "alphabetboard", "name": "Alphabet Board", "tags": ["draft", "coursework", "electronics"]},
-		{"id": "nostrum", "name": "Nostrum", "tags": ["draft", "coursework", "webdev"]},
+		{"id": "nostrum", "name": "Nostrum", "tags": ["coursework", "webdev"]},
 		{"id": "crucible", "name": "The Crucible", "tags": ["draft", "Berkeley Innovation", "design"]},
 		{"id": "paypal", "name": "PayPal", "tags": ["internship", "webdev", "frontend UI"]},
 		{"id": "mapd", "name": "MapD (now Omnisci)", "tags": ["draft", "Berkeley Innovation", "design"]},
