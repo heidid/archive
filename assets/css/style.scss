@@ -7,27 +7,42 @@
 
 body {
 	background-color: #f8f8ff;
-	color: #214;
 	margin: 0;
 	padding: 0;
 	font: 18px 'Inter', sans-serif;
+	color: #214;
+	line-height: 1.7;
 }
 
 header {
-	background: #f3effa;
+	position: fixed;
+	width: 100%;
+	background: rgb(243 239 250 / 0.92);
 }
 
 .container-lg {	
 	max-width: 800px;
-	padding: 30px 0;
+	padding: 15px 0;
 	margin: auto;
 	line-height: 1.6;
+}
+
+main.container-lg {
+	padding: 80px 0;
+}
+
+a {
+	color: #4B6CE2;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
 }
 
 .markdown-body {
 	h1 {
 		font-family: 'Source Serif Pro', serif;
-		font-size: 50px;
+		font-size: 60px;
 		font-weight: 400;
 		line-height: 1.4;
 		margin-bottom: 40px;
@@ -56,13 +71,6 @@ header {
 	}
 	li {
 		margin-bottom: 6px;
-	}
-	a {
-		color: #4B6CE2;
-		text-decoration: none;
-	}
-	a:hover {
-		text-decoration: underline;
 	}
 }
 
