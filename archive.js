@@ -1,14 +1,16 @@
 const CONFIG = {
 	"projects": [
 		{"id": "", "name": "Home", "tags": []},
+		{"id": "sitelab", "name": "SITELAB Urban Studio", "tags": ["Berkeley Innovation", "urban design", "⚠️draft"]},
+		{"id": "la140", "name": "Patricia's Green study", "tags": ["coursework", "urban design", "⚠️draft"]},
 		{"id": "flexport", "name": "Flexport", "tags": ["internship", "frontend UI"]},
-		{"id": "alphabetboard", "name": "Alphabet Board", "tags": ["draft", "coursework", "electronics"]},
+		{"id": "alphabetboard", "name": "Alphabet Board", "tags": ["⚠️draft", "coursework", "electronics"]},
 		{"id": "nostrum", "name": "Nostrum", "tags": ["coursework", "webdev"]},
-		{"id": "crucible", "name": "The Crucible", "tags": ["draft", "Berkeley Innovation", "design"]},
+		{"id": "crucible", "name": "The Crucible", "tags": ["⚠️draft", "Berkeley Innovation", "design"]},
 		{"id": "paypal", "name": "PayPal", "tags": ["internship", "webdev", "frontend UI"]},
-		{"id": "mapd", "name": "MapD (now Omnisci)", "tags": ["draft", "Berkeley Innovation", "design"]},
+		{"id": "mapd", "name": "MapD (now Omnisci)", "tags": ["⚠️draft", "Berkeley Innovation", "design"]},
 		{"id": "keewi", "name": "Keewi", "tags": ["internship", "webdev", "mobile app", "design"]},
-		// {"id": "proclub", "name": "Programming Club", "tags": ["draft", "high school", "webdev"]},
+		// {"id": "proclub", "name": "Programming Club", "tags": ["⚠️draft", "high school", "webdev"]},
 		{"id": "solarunion", "name": "SolarUnion", "tags": ["internship", "webdev"]},
 		{"id": "launch", "name": "Launch", "tags": ["high school", "mobile app"]},
 		{"id": "totalphase", "name": "Total Phase", "tags": ["internship"]},
@@ -19,7 +21,7 @@ const CONFIG = {
 		{"id": "willowlakebnb", "name": "Willow Lake", "tags": ["high school", "webdev"]},
 		{"id": "yogawithmiki", "name": "Yoga with Miki", "tags": ["old", "middle school", "webdev"]},
 		{"id": "woodellcomputers", "name": "Woodell Computers", "tags": ["old", "middle school", "webdev"]},
-		{"id": "neopets", "name": "Neopets", "tags": ["draft", "old"]},
+		{"id": "neopets", "name": "Neopets", "tags": ["⚠️draft", "old"]},
 	],
 };
 
