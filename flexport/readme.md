@@ -8,7 +8,7 @@ purpose: design systems & frontend engineering
 
 **Role:** Software Engineering Intern
 
-**Keywords:** React, Node.js
+**Keywords:** React, Node.js, design system
 
 I interned on the Frontend Infrastructure / Design System team in SF, where I worked on Flexport's design system, Latitude, and improved the [documentation site](https://www.flexport.com/design/legacy).
 
