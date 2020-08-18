@@ -1,3 +1,7 @@
+---
+purpose: frontend engineering & UI design
+---
+
 # PayPal
 
 **Time period:** May 2018 –  Aug 2018

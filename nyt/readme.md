@@ -1,3 +1,7 @@
+---
+purpose: frontend engineering
+---
+
 # New York Times
 
 **Time period:** June 2020 – Aug 2020

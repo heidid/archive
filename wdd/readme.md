@@ -1,3 +1,7 @@
+---
+purpose: teaching introductory web design and development
+---
+
 # Web Design DeCal
 
 **Time period:** Jan 2018 – May 2020

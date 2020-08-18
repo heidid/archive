@@ -1,3 +1,7 @@
+---
+purpose: UI/UX design & the human-centered design process
+---
+
 # The Crucible
 
 **Time period:** Sep 2018 – Dec 2018

@@ -1,3 +1,7 @@
+---
+learning: social justice in urban design
+---
+
 # Patricia's Green study
 
 **Time period:** Aug 2019 – Dec 2019
