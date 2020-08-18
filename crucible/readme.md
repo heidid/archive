@@ -1,4 +1,5 @@
 ---
+permalink: /crucible
 purpose: UI/UX design & the human-centered design process
 ---
 
