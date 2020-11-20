@@ -29,3 +29,9 @@ I was an instructor again in the spring.
 
 - pivoting to online lectures
 
+https://www.youtube.com/watch?v=WXdcNVAqC2A
+
+https://www.youtube.com/watch?v=mYL3gSgQq3w
+
+https://www.youtube.com/watch?v=stonfyp5Pgg
+
