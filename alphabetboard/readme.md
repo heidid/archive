@@ -1,7 +1,3 @@
----
-learning: physical prototyping & fabrication
----
-
 # Alphabet Board
 
 **Time period:** March 2019 – May 2019

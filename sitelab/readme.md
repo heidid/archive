@@ -1,7 +1,3 @@
----
-learning: urban design & placemaking 
----
-
 # SITELAB Urban Studio
 
 **Time period:** Sep 2019 – Dec 2019

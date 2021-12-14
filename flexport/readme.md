@@ -1,7 +1,3 @@
----
-purpose: design systems & frontend engineering
----
-
 # Flexport
 
 **Time period:** May 2018 – Aug 2018
