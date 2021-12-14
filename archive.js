@@ -4,6 +4,7 @@ const CONFIG = {
     {"id": "cs160", "name": "CS 160: User Interface Design", "tags": ["teaching", "⚠️draft"]},
     {"id": "monument-to-extraction", "name": "Monument to Extraction", "tags": ["coursework", "art", "⚠️draft"]},
     {"id": "edupad", "name": "EduPad", "tags": ["coursework", "design"]},
+    {"id": "printmaking", "name": "Printmaking", "tags": ["coursework", "art"]},
 		{"id": "nyt", "name": "New York Times", "tags": ["internship", "frontend UI", "⚠️draft"]},
 		{"id": "wdd", "name": "CS 198: Web Design DeCal", "tags": ["teaching", "⚠️draft"]},
 		{"id": "sitelab", "name": "SITELAB Urban Studio", "tags": ["Berkeley Innovation", "urban design", "⚠️draft"]},
