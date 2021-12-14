@@ -1,5 +1,4 @@
 ---
-permalink: /sitelab
 learning: urban design & placemaking 
 ---
 

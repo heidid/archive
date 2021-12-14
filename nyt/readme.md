@@ -1,5 +1,4 @@
 ---
-permalink: /nyt
 purpose: frontend engineering
 ---
 

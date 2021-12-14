@@ -1,5 +1,4 @@
 ---
-permalink: /paypal
 purpose: frontend engineering & UI design
 ---
 

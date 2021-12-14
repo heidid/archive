@@ -1,5 +1,4 @@
 ---
-permalink: /wdd
 purpose: teaching introductory web design and development
 ---
 

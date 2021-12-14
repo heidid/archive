@@ -1,5 +1,4 @@
 ---
-permalink: /la140
 learning: social justice in urban design
 ---
 

@@ -1,5 +1,4 @@
 ---
-permalink: /alphabetboard
 learning: physical prototyping & fabrication
 ---
 

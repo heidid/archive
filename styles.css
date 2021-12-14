@@ -32,6 +32,7 @@ nav li.active {
 }
 nav li.active a {
 	color: #222;
+  font-weight: bold;
 }
 .tag {
 	padding: 1px 3px;
