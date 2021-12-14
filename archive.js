@@ -52,7 +52,7 @@ const Page = {
 		return fetch(file)
 		.then(res => res.body.getReader().read())
 		.then(res => new TextDecoder("utf-8").decode(res.value))
-		.then(res => marked(res, { baseUrl: `${projectStr !== null && projectStr !== "" ? projectStr : ''}/` }));
+		.then(res => marked.parse(res, { baseUrl: `${projectStr !== null && projectStr !== "" ? projectStr : ''}/` }));
 	},
 	renderContent: (markupStr) => {
 		document.getElementById("content").innerHTML = markupStr;
@@ -95,7 +95,7 @@ const TagLists = {
 	renderContent: (map) => {
 		const tagsInAlphaOrder = Object.keys(map).sort();
 		const lists = tagsInAlphaOrder.map((tag) => {
-			return `<div>${marked(`${tag}\n${map[tag].map(p => `- [${p.name}](?id=${p.id})`).join('\n')}`)}</div>`;
+			return `<div>${marked.parse(`${tag}\n${map[tag].map(p => `- [${p.name}](?id=${p.id})`).join('\n')}`)}</div>`;
 		});
 		console.log(lists)
 		document.getElementById("tagLists").innerHTML = lists.join("");
