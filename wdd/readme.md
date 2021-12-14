@@ -1,4 +1,4 @@
-# Web Design DeCal
+# CS 198: Web Design DeCal
 
 **Time period:** Jan 2018 – May 2020
 
