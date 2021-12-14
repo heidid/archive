@@ -1,6 +1,7 @@
 const CONFIG = {
 	"projects": [
 		{"id": "", "name": "Home", "tags": []},
+    {"id": "edupad", "name": "EduPad", "tags": ["coursework", "design"]},
 		{"id": "nyt", "name": "New York Times", "tags": ["internship", "frontend UI", "⚠️draft"]},
 		{"id": "wdd", "name": "Web Design DeCal", "tags": ["teaching", "⚠️draft"]},
 		{"id": "sitelab", "name": "SITELAB Urban Studio", "tags": ["Berkeley Innovation", "urban design", "⚠️draft"]},
